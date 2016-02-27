@@ -13,7 +13,7 @@
     "category": [
         "in-game",
         "shader",
-        "fix"
+        "bug-fix"
     ],
     "version": "1.0.0",
     "priority": 100,

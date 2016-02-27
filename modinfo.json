@@ -15,7 +15,7 @@
         "shader",
         "bug-fix"
     ],
-    "version": "1.0.0",
+    "version": "1.0.1",
     "priority": 100,
     "build": "89755",
     "date": "2016/02/27"

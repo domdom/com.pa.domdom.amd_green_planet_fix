@@ -1,0 +1,22 @@
+{
+    "context": "client",
+    "identifier": "com.pac.domdom.amd_green_planet_fix",
+    "display_name": "Fix for green planet bug",
+    "description": "Some new AMD drivers have a bug in them that causes the planets to turn green. This mod tries to work around that issue. Please check the forums!",
+    "author": "dom314",
+    "forum": "https://forums.uberent.com/threads/rel-client-fix-for-green-planet-bug.71444/",
+    "icon": "http://i.imgur.com/uRUfthC.png?2",
+    "product": [
+        "Classic",
+        "Titans"
+    ],
+    "category": [
+        "in-game",
+        "shader",
+        "fix"
+    ],
+    "version": "1.0.0",
+    "priority": 100,
+    "build": "89755",
+    "date": "2016/02/27"
+}
